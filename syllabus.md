@@ -79,7 +79,7 @@ Your overall grade for the course will be determined as follows:
 -   Midterm exam: 15%
 -   Attendance and participation: 5%
 
-**(&dagger;) You must make a good faith effort to complete all of the labs and assignments.  Failure to submit a good faith attempt for any assignment or lab is grounds for receiving a reduced grade for the course.  Labs will be graded on a **Pass / Fail** basis.  In order to receive a passing grade on a lab, your submission must have a substantial portion of the lab implemented and correctly working.  **You will be penalized up to 10% points off your course grade for each lab for which you do not receive a passing grade.**
+**(&dagger;) You must make a good faith effort to complete all of the labs and assignments.  Failure to submit a good faith attempt for any assignment or lab is grounds for receiving a reduced grade for the course.  Labs will be graded on a *Pass / Fail* basis.  In order to receive a passing grade on a lab, your submission must have a substantial portion of the lab implemented and correctly working.  You will be penalized up to 10% points off your course grade for each lab for which you do not receive a passing grade.**
 
 **(\*) You must make a substantial *technical* contribution to your team software project. Although the non-technical contributions you make to your project, such as planning, communication, and organization, are important, you must also make a substantial contribution to the design and implementation of the software. I reserve the right to assign a reduced or failing grade for the course to any student who does not do this.**
 
@@ -143,7 +143,7 @@ Late assignments will be marked down 10% per day late. **No credit will be given
 
 ### Late Lab Policy
 
-The labs will be graded on a Pass / Fail basis.  Since satisfactory completion of all of the labs is so crucial to your ability to make significant (and timely) contributions to your team project, there will **NOT** be a late grace period for any of the labs.  Late submission of a lab will result in an automatic failure for that lab and up to a **10% penalty will be assessed against your course grade for failing the lab.**
+The labs will be graded on a **Pass / Fail** basis.  Since satisfactory completion of all of the labs is so crucial to your ability to make significant (and timely) contributions to your team project, there will **NOT** be a late grace period for any of the labs.  Late submission of a lab will result in an automatic failure for that lab and up to a **10% penalty will be assessed against your course grade for failing the lab.**
 
 ### Exams
 
