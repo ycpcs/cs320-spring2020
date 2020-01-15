@@ -13,9 +13,9 @@ This document describes the expectations for each milestone.
 
 > Date | Milestone
 > ---- | ---------
-> Monday, March 18  | Milestone 1: Baseline Prototype
-> Monday, April 1   | Milestone 2: 50% Working Progress
-> Monday, April 15  | Milestone 3: Final Project Demo
+> Monday, 2-17-20  | Milestone 1: Baseline Prototype
+> Monday, 3-9-20   | Milestone 2: 50% Working Progress
+> Monday, 3-23-20  | Milestone 3: Final Project Demo
 
 ## Expectations
 

@@ -7,9 +7,9 @@ title: "Assignment 8: Team Project Deliverables"
 
 **Presentations: During Final Exam Time
 
--   Section 101 (9:00): Wednesday, May 15th, 8:00 am &ndash; 10:00 am
--   Section 102 (11:00): Wednesday, May 15th, 10:15 am &ndash; 12:15 pm
--   Section 103 (2:00): Monday, May 13th, 3:00 pm &ndash; 5:00 pm
+-   Section 101 (9:00): Wednesday, 5-13-20, 8:00am &ndash; 10:00am
+-   Section 102 (11:00): Wednesday, 5-13-20, 10:15am &ndash; 12:15pm
+-   Section 103 (2:00): Monday, May 5-11-20, 3:00pm &ndash; 5:00pm
 
 This is a **team** assignment
 
@@ -30,7 +30,7 @@ The final version of your code should be in your "main" repository.
 The Report
 ----------
 
-Submit a 2-3 page report describing:
+Submit a 3-5 page report describing:
 
 -   Of the requirements you proposed initially, which you completed and which you did not complete
 -   The most important technical challenges your team faced, and how you overcame them

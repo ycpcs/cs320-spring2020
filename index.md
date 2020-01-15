@@ -85,7 +85,7 @@ All information about the course will be posted here.
 * **Jan 22** - Lab01: HTML & CSS **due by 7:00am, Sunday, 1-26-20**
 * **Jan 22** - [Lab 1: HTML and CSS](labs/lab01.html) is posted
 * **Jan 22** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html)
-* **Jan 22** - [Assignment 1](assign/assign01.html) is posted
-* **Jan 22** - [Assignment 2](assign/assign02.html) is posted
+* **Jan 22** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted
+* **Jan 22** - [Assign01: Team Project Proposal](assign/assign01.html) is posted
 * **Jan 22** - [Class Rosters](teams-and-rosters/index.html) are posted - choose your teams
 * **Jan 22** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll learn just how much **WORK** it takes to have so much **FUN**...!)

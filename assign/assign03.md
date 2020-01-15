@@ -9,18 +9,12 @@ This document describes the expectations for each milestone.
 
 > Date | Milestone
 > ---- | ---------
-> Monday, March 25    | Milestone 1: Minimal Working System
-> Monday, April 8     | Milestone 2: Progress on Features
-> Monday, April 29    | Milestone 3: "75%" Working System (persistence using SQL database)
-
-<!-- Commenting out MS4 - cancelled
-
-> Wednesday, May 8    | Milestone 4: "95%" Working System (presentation & demo "dry run")
-
--->
+> Monday, 3-16-20    | Milestone 1: Minimal Working System
+> Monday, 3-30-20    | Milestone 2: Progress on Features
+> Monday, 4-20-20    | Milestone 3: "75%" Working System (persistence using SQL database)
 
 ## Expectations
-Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.  Bear in mind that it is acceptable for some of your test cases to fail, as you will not have implemented all of your code - at least for the first 3 milestones.
+Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.  Bear in mind that it is acceptable for **some** of your test cases to fail, as you will not have implemented all of your code - at least for the aboce 3 milestones.
 
 Slides to consider (you may include others, as you see fit):
 * Project title slide that also includes all of the names of the team members.
@@ -51,15 +45,9 @@ The idea of a minimal working system is to create a working foundation early in 
 * A slide summarizing the major technical challenges that your team faced, and how you overcame them.
 * A slide summarizing what you plan to accomplish before your final presentation and demo.
 
-!<-- Commenting out MS4, moved slides to MS3
-
-**Milestone 4: "95%" Working System**. Your team should demonstrate a working system that is nearly complete.  Nearly all of the required features should be implemented.  The system should have a reasonable degree of "polish".  Your team should be prepared to discuss what remains in order to reach a point where the system is complete.  Your presentation should be a condensed "dry run" of your final presentation, with a degree of structure and polish that is closer to the formal presentation that your team will give for its final demonstration.  The presentation for MS4 should include the following:
-
--->
-
 ## Evaluation
 
-For each of these milestones, I will give your team one of the following grades: *below expectations*, *meets expectations*, or *exceeds expectations*. Below expectations means that I am concerned that your team is not making sufficient progress.  At all 4 milestones, I expect that there will be sufficient effort put towards automated unit test case development.
+For each of these milestones, I will give your team one of the following grades: *below expectations*, *meets expectations*, or *exceeds expectations*. Below expectations means that I am concerned that your team is not making sufficient progress.  At all 3 milestones, I expect that there will be sufficient effort put towards automated unit test case development.
 
 <div class="callout">
 <b>DO NOT LEAVE TEST CASES AS AN AFTER-THOUGHT.  YOUR TEAM WILL RECEIVE "BELOW EXPECTATIONS" IF YOU DO NOT HAVE SUFFICIENT TEST CASES DEVELOPED FOR EACH MILESTONE.</b>
