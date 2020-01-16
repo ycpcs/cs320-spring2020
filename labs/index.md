@@ -3,7 +3,7 @@ layout: default
 title: "Labs"
 ---
 
-This page lists the lab activities.  We *might* get started on these labs in class, but you will not be able to finish them in class.  All of the labs will be graded on a **Pass / Fail** basis, as required assignments.  Failure to submit a sufficiently complete a lab by the due date will result in up to a 10% penalty off your course grade.
+This page lists the lab activities.  We *might* get started on these labs in class, but you will not be able to finish them in class.  All of the labs will be graded on a **Pass / Fail** basis, as required assignments.  Failure to submit a sufficiently complete lab by the due date will result in up to a 10% penalty off your course grade.
 
 The labs provide extremely important concepts and techniques that will be essential for completing your team project.  The given due dates are the enforced dates, but I **HIGHLY** encourage you to work on the SQL-related labs (Lab04, Lab05, and Lab06) ahead of time, as they are essential for getting a good start on your persistent database design and implementation.
 
@@ -32,6 +32,6 @@ Any sources (books, websites, articles, fellow students, etc.) that you consult 
 
 Any violation of the course's academic integrity policy will be referred to the Dean of Academic Affairs, and could have consequences ranging from a 0 on an assignment to dismissal from the college.
 
-Late labs will **NOT** be accepted.  Labs will be graded on a **Pass / Fail** basis.  Failing a lab, submitting a lab late, or not submitting it all will result in a course grade penalty of up to 10%.
+Labs will be graded on a **Pass / Fail** basis.  Late labs will be graded as **FAIL**.  Failing a lab, submitting a lab late, or not submitting it all will result in a course grade penalty of up to 10%.
 
-**With regards to Lab06 (ORM) - it is the most important lab in this course.  Each year, I provide a basic website example built from Lab02 (Web Applications) and Lab06 (ORM) called The LibraryExample.  I will do this again this year on Friday, 3-27-20.  You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit any code as part of your Lab06 solution that was taken from any version of the LibraryExample Project that has ever been provided as part of this course.**
+**With regards to Lab06 (ORM) - it is the most important lab in this course.  Each year, I provide a basic website example built from Lab02a (Web Applications II) and Lab06 (ORM) called **The LibraryExample Solution**.  I will do this again this year on Friday, 3-27-20.  You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit any code as part of your Lab06 solution that was taken from any version of **The LibraryExample Solution** that has ever been provided as part of this course.**
