@@ -15,7 +15,7 @@ Example: If I was submitting Lab02, I would refactor the **CS320\_Lab02** projec
 
 Due Date | Lab | File
 ---- | --- | ----
-Sunday, 1-26-20, by 7:00am | [Lab 1: HTML and CSS](lab01.html) | n/a
+Monday, 1-27-20, by 7:00am | [Lab 1: HTML and CSS](lab01.html) | n/a
 Wednesday, 1-29-20 (in-class) | [Lab 3: Git Part I](lab03.html) | n/a
 Sunday, 2-9-20, by 7:00am | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
 Friday, 3-13-20, by 7:00am | [Lab 4: SQL, Queries, Joins](lab04.html) |  [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)

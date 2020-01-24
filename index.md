@@ -78,11 +78,13 @@ All information about the course will be posted here.
 
 -->
 
+* **Jan 24** - Lab01: HTML & CSS **due date has been moved to 7:00am, Monday, 1-27-20**
+
 * **Jan 22** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 * **Jan 22** - Assign02: Individual Project Proposal **due by 7:00am, Sunday, 2-2-20**
 * **Jan 22** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 22** - Assign01: Team Project Proposal **due by 7:00am, Saturday, 2-1-20**
-* **Jan 22** - Lab01: HTML & CSS **due by 7:00am, Sunday, 1-26-20**
+
 * **Jan 22** - [Lab 1: HTML and CSS](labs/lab01.html) is posted
 * **Jan 22** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html)
 * **Jan 22** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted
