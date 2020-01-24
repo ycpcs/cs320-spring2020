@@ -45,7 +45,7 @@ Here is an [example submission](assign06-csperbec-asmit147-awalsh6.pdf) for this
 Submitting
 ==========
 
-Create an Analysis document for your project in Google Docs that includes your group's Textual Analysis, Violet UML Model, and an explanation of your Analysis Model.  Name the Analysis document **assign06-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members.
+Create an Analysis document for your project in Google Docs that includes your group's Textual Analysis, Violet UML Model, and an explanation of your Analysis Model.  Name the Analysis document **assign06-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members,**in alphabetical order**.
 
 Place your Analysis document under your shared Google Drive Group Project folder.  Also post your Violet UML (.class.violet) file of your Analysis Model to the Group Project folder.
 

@@ -64,7 +64,7 @@ Here is the template for your [Individual Project Proposal](CS320_Individual_Pro
 Submitting
 ==========
 
-Create a folder in Google Drive named "CS320-IndProject-username", replacing "username" with your YCP user name, and place it in the shared Google **CS320-Spring2019 [students]** folder under your section of CS320 that I previously shared with you.
+Create a folder in Google Drive named "CS320-IndProject-username", replacing "username" with your YCP user name, and place it in the shared Google **CS320-Spring2020 [students]** folder under your section of CS320 that I previously shared with you.
 
 This folder will be your means of submission for all **non-programming-related individual** assignments.
 

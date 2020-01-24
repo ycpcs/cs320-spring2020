@@ -35,11 +35,11 @@ Here is the template for your [Team Project Proposal](CS320_Team_Project_Proposa
 Submitting
 ==========
 
-Have one team member create a Google Team Drive folder named "CS320-Sp19-Team-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the YCP user names of the members of your project team.  Share the Team Drive with your team members and with me.
+Have one team member create a Google Team Drive folder named "CS320-Sp20-Team-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the YCP user names of the members of your project team, **in alphabetical order**.  Share the Team Drive with your team members and with me.
 
 This folder will be your means of submission for all **non-programming-related team** assignments.
 
-Then create your Team Project Proposal in that folder, using Google Docs.  Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the YCP user names of your project team members.  Share the folder and its contents with all team members and with me.
+Then create your Team Project Proposal in that folder, using Google Docs.  Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the YCP user names of your project team members, **in alphabetical order**.  Share the Team Drive with your team members and with me.  Share the folder and its contents with all team members and with me.
 
 <div class="callout">
 <b>Important</b>: Only submissions in Google Docs will be accepted.

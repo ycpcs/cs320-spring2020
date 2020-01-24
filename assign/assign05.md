@@ -47,7 +47,7 @@ Note that TicTacToe is a pretty simple example: for a more complex problem, a us
 
 # Submitting your work
 
-Create a Google Doc for your group's Use Case document, and name it **assign05-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members.  Place the Use Case document under your shared Google Drive Group Project folder.
+Create a Google Doc for your group's Use Case document, and name it **assign05-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members, **in alphabetical order**.  Place the Use Case document under your shared Google Drive Group Project folder.
 
 <div class="callout">
 <b>Important</b>: Your submission <i>must</i> be a Google Doc, shared via your Group Project folder.
