@@ -6,13 +6,13 @@ title: "Notes for Lab 2: Guessing Game WebApp"
 Determining the JRE System Library
 ===============
 
-These instructions are for **Eclipse Oxygen** (which is installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
+These instructions are for **Eclipse Oxygen.3** (which is installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
 
 All of the labs have been reconfigured to use **JRE System Library[JavaSE-1.8]**, which is installed on the PC's in both KEC 119 and KEC 123.  It is possible that the configuration you are using on your own PC, or even on a lab PC could vary such that no suitable version of Java JRE 1.8 can be found.  The instructions below will help you establish the proper JRE System Libraries for the labs for CS320.
 
-If you are using an older version of the **JRE System Library**, you might need to change the default **JRE System Library** version to a later version in order to get **CS320\_Lab02** to work.  A **JRE System Library** version of **jre1.8.0\_51** or later should work fine - choose the latest version available.
+If you are using an older version of the **JRE System Library**, you might need to change the default **JRE System Library** version to a later version in order to get **CS320\_Lab02** to work.  A **JRE System Library** version of **jre1.8.0\_91** or later should work fine - choose the latest version available.
 
-In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.8.0\_181**.
+In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.8.0\_181**.  I recommend using the same versions as installed on the lab PCs.
 
 * Create a folder on your home drive **(H:)** named **cs320-spring2019**.
 
@@ -28,7 +28,7 @@ In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.
 
 * Expand the **CS320_Lab02** project.
 
-* If it shows the **JRE System Library** either as **JRE System Library[JavaSE-1.8]** or **jdk1.8.0\_51** or later, then you likely have no further steps to take.
+* If it shows the **JRE System Library** either as **JRE System Library[JavaSE-1.8]** or **jdk1.8.0\_91** or later, then you likely have no further steps to take.
 
 Changing the JRE System Library
 =========
@@ -53,7 +53,7 @@ Go to **C:/Program Files/Java** and look for a JDK folder labelled **jdk1.8.0\_x
 
 * That will pop up a list of installed JRE's.
 
-* If you see one for **jdk1.8.0\_51** (or later), select whichever one you want, and hit **Apply**, followed by **OK**.
+* If you see one for **jdk1.8.0\_91** (or later), select whichever one you want, and hit **Apply**, followed by **OK**.
 
 * You should now see that the **Workspace default JRE** has changed to the one you just selected.
 

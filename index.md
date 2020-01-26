@@ -70,13 +70,11 @@ All information about the course will be posted here.
 
 * **Feb 3** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, 2-17-20**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
 
-* **Jan 29** - [Lab02a: Web Applications II](labs/lab02a.html) is posted.  It is **due by 7:00am, Sunday, 2-9-20**.  Please also see the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab.
-
-* **Jan 29** - [Lab02: Web Applications I](labs/lab02.html) is posted.  It is simply an introduction to Web Applications, and will ease you into Lab02a.  It is not reuqired, but it will give you a good start on Lab02a.  Please also see the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab.
-
-* **Jan 27** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Wednesday, 1-29-20**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this lab next week.
-
 -->
+
+* **Jan 27** - [Lab02a: Web Applications II](labs/lab02a.html) is posted.  It is **due by 7:00am, Sunday, 2-9-20**.  Please also see the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab.
+* **Jan 27** - [Lab02: Web Applications I](labs/lab02.html) is posted.  It is simply an introduction to Web Applications, and will ease you into Lab02a.  It is not required, but it will give you a good start on Lab02a.  Please also see the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab.
+* **Jan 27** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Wednesday, 1-29-20**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this lab next week.
 
 * **Jan 24** - Lab01: HTML & CSS **due date has been moved to 7:00am, Monday, 1-27-20**
 
