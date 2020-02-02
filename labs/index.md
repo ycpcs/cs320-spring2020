@@ -17,7 +17,7 @@ Due Date | Lab | File
 ---- | --- | ----
 Monday, 1-27-20, by 7:00am | [Lab 1: HTML and CSS](lab01.html) | n/a
 Wednesday, 1-29-20 (in-class) | [Lab 3: Git Part I](lab03.html) | n/a
-Sunday, 2-9-20, by 7:00am | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
+Monday, 2-10-20, by 7:00am | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
 Friday, 3-13-20, by 7:00am | [Lab 4: SQL, Queries, Joins](lab04.html) |  [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
 Sunday, 3-15-20, by 7:00am | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
 Thursday, 3-26-20, by 7:00am | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)

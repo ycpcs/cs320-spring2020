@@ -9,7 +9,7 @@ This page lists the assignments.
 
 Assignment | Type | Due
 ---------- | ---- | ---
-[Assignment 1: Team Project Proposal](assign01.html) | Team | Saturday, 2-1-20, by 7:00am
+[Assignment 1: Team Project Proposal](assign01.html) | Team | Monday, 2-3-20, by 7:00am
 [Assignment 2: Individual Project Proposal](assign02.html) | Individual | Sunday, 2-2-20, by 7:00am
 [Assignment 3: Team Project Milestones](assign03.html) | Team | Multiple (see description)
 [Assignment 4: Individual Project Milestones](assign04.html) | Individual | Multiple (see description)
