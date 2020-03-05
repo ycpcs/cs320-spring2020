@@ -52,15 +52,15 @@ All information about the course will be posted here.
 
 -->
 
-* **Mar 11** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Thursday, 3-19-20**.
+* **Mar 5** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The report and code for your individual project are **due by 7:00am, Tuesday, 3-24-20**.
 
-* **Mar 11** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Friday, 3-13-20**.
+* **Mar 5** - [Individual Project Milestone 3](assign/assign04.html) is **due Monday, 3-23-20**.  This will be your final Informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
 
-* **Mar 11** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The report and code for your individual project are **due by 7:00am, Tuesday, 3-24-20**.
+* **Mar 5** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, 3-16-20**.    This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
 
-* **Mar 11** - [Individual Project Milestone 3](assign/assign04.html) is **due Monday, 3-23-20**.  This will be your final Informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
+* **Mar 5** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Thursday, 3-19-20**.
 
-* **Feb 28** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, 3-16-20**.    This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
+* **Mar 5** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Friday, 3-13-20**.
 
 * **Feb 24** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-9-20**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress since Milestone 1.  **Note that this Milestone due date is the first day after you return from Winter Break.**
 
