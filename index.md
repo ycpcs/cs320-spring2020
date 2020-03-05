@@ -54,7 +54,7 @@ All information about the course will be posted here.
 
 * **Mar 11** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Thursday, 3-19-20**.
 
-* **Mar 11** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Wednesday, 3-13-20**.
+* **Mar 11** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Friday, 3-13-20**.
 
 * **Mar 11** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The report and code for your individual project are **due by 7:00am, Tuesday, 3-24-20**.
 
