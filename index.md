@@ -48,9 +48,11 @@ All information about the course will be posted here.
 
 * **Mar 18** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, 3-30-20**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
 
-* **Mar 11** - [Lab06: ORM](labs/lab06.html) is posted.  It is **due by 7:00am, Thursday, 3-26-20**.
+* **Mar 18** - [Lab06: ORM](labs/lab06.html) is posted.  It is **due by 7:00am, Thursday, 3-26-20**.
 
-* **Mar 11** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Sunday, 3-15-20**.
+-->
+
+* **Mar 11** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Thursday, 3-19-20**.
 
 * **Mar 11** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Wednesday, 3-13-20**.
 
@@ -58,15 +60,13 @@ All information about the course will be posted here.
 
 * **Mar 11** - [Individual Project Milestone 3](assign/assign04.html) is **due Monday, 3-23-20**.  This will be your final Informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
 
-* **Feb 28** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, 3-23-20**.    This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
+* **Feb 28** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, 3-16-20**.    This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
 
 * **Feb 24** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-9-20**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress since Milestone 1.  **Note that this Milestone due date is the first day after you return from Winter Break.**
 
 * **Feb 24** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by 7:00am, Saturday, 3-7-20.**  You will likely need to collaborate on this assignment remotely over break using Google Docs, and your shared Google Team Drive.  You will also need to create and embed a **PDF** version of your UML document in your Google Doc submission.  **Do not link to your UML diagram, embed a PDF or PNG copy of it in your document.**
 
 * **Feb 24** - For creating your UML diagrams for your group's UML model that will part of Assign06: you may use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).  You may also use other drawing tools, **as long as those tools can export PDF or PNG versions of the UML diagram**, which you willl need to embed in your Assign06 submission.
-
--->
 
 * **Feb 17** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00am, Monday, 2-24-20**.  You will need it for the in-class exercise for the Textual Analysis of your team project Use Cases later that day.
 
