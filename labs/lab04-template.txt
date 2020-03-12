@@ -33,19 +33,19 @@ OK (4 rows(s))
 
 
 
-3) The author’s name (first and last), the ISBN, and the year published for the book with the title “Something Under the Bed is Drooling”
+3) The author's name (first and last), the ISBN, and the year published for the book with the title "Something Under the Bed is Drooling"
 
 
 
-4) All of the authors for “The Complete Monty Python’s Flying Circus; All the Words, Volume 1”
+4) All of the authors for "The Complete Monty Python's Flying Circus; All the Words, Volume 1"
 
 
 
-5) The title and author for each of Berkeley Breathed’s and Bill Watterson’s books, sorted in ascending order by title
+5) The title and author for each of Berkeley Breathed's and Bill Watterson's books, sorted in ascending order by title
 
 
 
-6) The author(s) and title for each book with the word “Time” or “Universe” in the title, sorted in ascending order by lastname, and then ascending by title.
+6) The author(s) and title for each book with the word "Time" or "Universe" in the title, sorted in ascending order by lastname, and then ascending by title.
 
 
 
