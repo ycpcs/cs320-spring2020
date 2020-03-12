@@ -16,8 +16,8 @@ Assignment | Type | Due
 [Assignment 5: Use Cases](assign05.html) | Team | Monday, 2-24-20, by 7:00am
 [Assignment 6: Problem Domain Analysis](assign06.html) | Team | Saturday, 3-7-20, by 7:00am
 [Assignment 11: Team Project Midterm Self / Peer Evaluation](assign11.html) | Individual | Tuesday, 3-31-20, by 7:00am
-[Assignment 9: Individual Project Final Demo](assign09.html) | Individual | Monday, 3-23-20 (in class)
-[Assignment 9: Individual Project Deliverables](assign09.html) | Individual | Tuesday, 3-24-20, by 7:00am
+[Assignment 9: Individual Project Final Demo](assign09.html) | Individual | Monday, 4-6-20 (in class)
+[Assignment 9: Individual Project Report](assign09.html) | Individual | Thursday, 4-9-20, by 7:00am
 [Assignment 8: Team Project Code and Technical Report](assign08.html) | Team | Saturday, 5-9-20, by 7:00am
 [Assignment 10: Team Project Reflection](assign10.html) | Individual | Sunday, 5-10-20, by 7:00am
 [Assignment 11: Final Team Project Self / Peer Evaluation](assign11.html) | Individual | Sunday, 5-10-20, by 7:00am

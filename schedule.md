@@ -38,22 +38,22 @@ Mar 13 | Database Applications - JDBC<br> JDBC Lab Assigned | [Lecture 14: Datab
 Mar 16 | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Mar 18 | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
 Mar 20 | SQL / JDBC / ORM Labs Review
-Mar 23 | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Mar 24 | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
-Mar 25 | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
-Mar 27 | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
+Mar 23 | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
+Mar 25 | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
+Mar 27 | Library Project Example Analysis and Review
 Mar 30 | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Mar 31 | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
-Apr 1  | Mid-Term Exam Review <br> Library Application Example 
+Apr 1  | Mid-Term Exam Review <br> Library Project Example Review 
 Apr 3  | **MID-TERM EXAM** (in class)
-Apr 6  | Library Application Example Analysis and Review
-Apr 8  | TBD or Team Project Session (in class)
+Apr 6  | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Apr 8  | Work Ethic Lecture
+Apr 9  | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Apr 10 | **Spring Break (no class)**
 Apr 13 | **Spring Break (no class)**
 Apr 15 | TBD or Team Project Session (in class)
 Apr 17 | TBD or Team Project Session (in class)
 Apr 20 | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 22 | Work Ethic Lecture
+Apr 22 | TBD or Team Project Session (in class)
 Apr 24 | TBD or Team Project Session (in class)
 Apr 27 | TBD or Team Project Session (in class)
 Apr 29 | TBD or Team Project Session (in class)
