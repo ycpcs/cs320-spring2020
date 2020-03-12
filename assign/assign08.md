@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 8: Team Project Deliverables"
 ---
 
-**Code and report due: [See Assignment Schedule](index.html)**
+**Report due: [See Assignment Schedule](index.html)**
 
 **Presentations: During Final Exam Time
 
