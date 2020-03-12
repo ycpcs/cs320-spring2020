@@ -12,6 +12,9 @@ This document describes the expectations for each milestone.
 > Monday, 3-16-20    | Milestone 1: Minimal Working System
 > Monday, 3-30-20    | Milestone 2: Progress on Features
 > Monday, 4-20-20    | Milestone 3: "75%" Working System (persistence using SQL database)
+> Saturday, 5-9-20   | Final Technical Report: due by 7:00am (Marmoset)
+> Monday, 5-11-20    | Final Presentation & Demo (section 103), during final exam period
+> Wednesday, 5-13-20 | FInal Presenation & Demo (sections 101 & 102), during final exam period
 
 ## Expectations
 Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.  Bear in mind that it is acceptable for **some** of your test cases to fail, as you will not have implemented all of your code - at least for the aboce 3 milestones.
@@ -39,10 +42,15 @@ The idea of a minimal working system is to create a working foundation early in 
 **Milestone 2: Progress on features**.  In this milestone, your team should demonstrate some progress on features, such that at least some use cases are fully or partially implemented.  It is fine if your system is using the "fake" database at this point.
 
 **Milestone 3: "75%" Working System, Persistence using SQL database**. Your team should demonstrate a working system that implements most of the major system requirements.  Also, Your team should demonstrate that there is a working implementation of the persistence interface that uses an SQL database to store and retrieve data (e.g., using Derby).  Note that it is not expected that the system has a high degree of "polish": the UI doesn't have to be beautiful, for example.  However, the features that are implemented should be functional and free of bugs.  Make sure to include the following slide in your presentation (in addition to your other slides):
+
 * A slide on your SQL database schema, which should include your tables, the attributes in each table, and any relationships between the tables.  You can use the format shown in [Lecture 9](../lectures/lecture09.html).
+
 * A slide that lists the names of your SQL database queries.  Note that this should not include the SQL code, but rather method names, such as "getAllBooksByAuthor", along with a short description of each query.
+
 * A slide summarizing the current progress on your project, i.e., a list of features that have been implemented.
+
 * A slide summarizing the major technical challenges that your team faced, and how you overcame them.
+
 * A slide summarizing what you plan to accomplish before your final presentation and demo.
 
 ## Evaluation
