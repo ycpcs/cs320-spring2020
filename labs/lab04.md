@@ -79,16 +79,16 @@ OK (14 rows(s))
 
 Make sure to verify that the results of each query are correct by comparing against the  database tables themselves.
 
--   1) The title for each book written by Stephen Hawking
--   2) The title and year of publishing for each book written by Douglas Adams
--   3) The author's name (first and last), the ISBN, and the year published for the book with the title "Something Under the Bed is Drooling"
--   4) All of the authors for "The Complete Monty Python's Flying Circus; All the Words, Volume 1"
--	5) The title and author for each of Berkeley Breathed's and Bill Watterson's books, sorted in ascending order by title
--   6) The author(s) and title for each book with the word "Time" or "Universe" in the title, sorted in ascending order by lastname, and then ascending by title.
--   7) Attempt to insert a new book into the **books** table, with an **author_id** that does not appear in the **authors** table (this attempt should fail, due to specifying an invalid **foreign key** for **author_id**)
--   8) Insert yourself as a new author in the **authors** table (do not specify an author_id, Derby will do that for you, since **author_id** is the auto-generated primary key for the **authors** table)
--   9) Retrieve the **author_id** from the **authors** table for your entry and insert a new book into the **books** table, using your **author_id**
--   10) Now retrieve all of the information for your book (title, ISBN, published, lastname, firstname)
+1) The title for each book written by Stephen Hawking
+2) The title and year of publishing for each book written by Douglas Adams
+3) The author's name (first and last), the ISBN, and the year published for the book with the title "Something Under the Bed is Drooling"
+4) All of the authors for "The Complete Monty Python's Flying Circus; All the Words, Volume 1"
+5) The title and author for each of Berkeley Breathed's and Bill Watterson's books, sorted in ascending order by title
+6) The author(s) and title for each book with the word "Time" or "Universe" in the title, sorted in ascending order by lastname, and then ascending by title.
+7) Attempt to insert a new book into the **books** table, with an **author_id** that does not appear in the **authors** table (this attempt should fail, due to specifying an invalid **foreign key** for **author_id**)
+8) Insert yourself as a new author in the **authors** table (do not specify an author_id, Derby will do that for you, since **author_id** is the auto-generated primary key for the **authors** table)
+9) Retrieve the **author_id** from the **authors** table for your entry and insert a new book into the **books** table, using your **author_id**
+10) Now retrieve all of the information for your book (title, ISBN, published, lastname, firstname)
 
 # What to submit
 
