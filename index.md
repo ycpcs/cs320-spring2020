@@ -40,17 +40,23 @@ All information about the course will be posted here.
 
 * **Apr 1** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-20-20**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
 
-* **Mar 27** - The **midterm exam** will be in-class on **Friday, 4-3-20**.  It will be open notes and you can use any resource on the CS320 website, as well as your lab solutions.  A practice exam is posted.  The exam will be 120 points, and it will be difficult to finish in the time allotted, if you do not know the material.  It will graded on a 100 point basis, thus it has a built-in 20-point curve.  You can choose which questions to concentrate your effort on, but all questions will be graded.  We will use Wednesday, 4-1-20 for a short review for the midterm exam.
+* **Mar 29** - The **midterm exam** will be on-line on **Monday, 4-6-20**.  It will be open notes and you can use any resource on the CS320 website, as well as your lab solutions.  A practice exam is posted.  The exam will be 120 points, and it will be difficult to finish in the time allotted, if you do not know the material.  It will graded on a 100 point basis, thus it has a built-in 20-point curve.  You can choose which questions to concentrate your effort on, but all questions will be graded.  We will use Friday, 4-3-20 for a short review for the midterm exam.
 
-* **Mar 27** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class on **Monday, 4-6-20**.
-
-* **Mar 18** - Mid-semester self/peer evaluations are **due by 7:00am, Tuesday, 3-31-20**.  See the instructions under [Assignment 11](assign/assign11.html).
-
-* **Mar 18** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, 3-30-20**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
-
-* **Mar 18** - [Lab06: ORM](labs/lab06.html) is posted.  It is **due by 7:00am, Thursday, 3-26-20**.
+* **Mar 29** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class on **Monday, 4-6-20**.
 
 -->
+
+* **Mar 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The due date for you individual project report has been moved to **Thursday, 4-9-20, by 7:00am**.
+
+* **Mar 22** - [Individual Project Milestone 3](assign/assign04.html) has been moved to **Wednesday, 4-8-20**.  This will be your final informal, 2-4 minute (max) demonstration of your individual project.  We will attempt to do this on-line through ZOOM and screen sharing.
+
+* **Mar 22** - Mid-semester self/peer evaluations are **due by 7:00am, Saturday, 4-4-20**.  See the instructions under [Assignment 11](assign/assign11.html).
+
+* **Mar 22** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Wednesday, 4-1-20**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)  **We will be conducting this presentation via ZOOM - each team will have to coordinate their presentation amongst its team members.  YOu will be able to share your screens as you give your PPT and code demo.**
+
+* **Mar 18** - [Lab06: ORM](labs/lab06.html) is posted.  It is **due by 7:00am, Sunday, 3-29-20**.
+
+* **Mar 18** - [Lab05: ORM](labs/lab05.html) is now **due by 7:00am, Sunday, 3-22-20**.
 
 * **Mar 12** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The due date for you individual project report has been moved to **Thursday, 4-9-20, by 7:00am**.
 
