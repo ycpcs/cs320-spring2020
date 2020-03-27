@@ -45,6 +45,8 @@ All information about the course will be posted here.
 
 -->
 
+* **Mar 27** - The [Lab06: ORM](labs/lab06.html) due date has been moved to **7:00am, Monday, 3-30-20**.
+
 * **Mar 27** - The **midterm exam** will be a take-at-home exam on **Monday, 4-6-20**.  I will post it by 8:00 am on Monday morning, and will send out a class email at that time and tell you where it is posted.  You will have until 8:00 pm Monday evening to complete and submit it to Marmoset.  I will also post a template answer sheet for you to fill in.  There is NO Programming portion, it is all written, with a UML diagram to draw, as well.  You will also need to submit an electronic copy of your UML diagram (either using a drawing package, or a NEATLY hand-drawn diagram that you can post as a JPG or PDF).  The exam will be open notes and you can use any resource on the CS320 website, as well as your assignment and lab solutions.  The exam is 120 points, and was originally designed to be an in-class 50-minute exam, with a built-in curve of 20 points.  Since it is a take-home this year, there will **NOT** be a curve.  I posted a practice take-home exam - the exam you are taking will not be nearly as long or involved as the practice exam.  We will use Friday, 4-3-20 for a short review for the midterm exam.  **YOU MUST DO YOUR OWN WORK - YOU ARE NOT ALLOWED TO CONSULT WITH ANYONE ELSE, OR USE ANY RESOURCES THAT ARE NOT LISTED ON THE RESOURCES PAGE OF THE CS320 WEBSITE.  I AM TRUSTING YOU TO WORK ON YOUR HONOR - PLEASE DO NOT BETRAY THAT TRUST.**
 
 * **Mar 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The due date for you individual project report has been moved to **Saturday, 4-11-20, by 7:00am**.
@@ -54,8 +56,6 @@ All information about the course will be posted here.
 * **Mar 22** - Mid-semester self/peer evaluations are **due by 7:00am, Saturday, 4-4-20**.  See the instructions under [Assignment 11](assign/assign11.html).
 
 * **Mar 22** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Wednesday, 4-1-20**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)  **We will be conducting this presentation via ZOOM - each team will have to coordinate their presentation amongst its team members.  YOu will be able to share your screens as you give your PPT and code demo.**
-
-* **Mar 18** - [Lab06: ORM](labs/lab06.html) is posted.  It is **due by 7:00am, Sunday, 3-29-20**.
 
 * **Mar 18** - [Lab05: ORM](labs/lab05.html) is now **due by 7:00am, Sunday, 3-22-20**.
 
