@@ -1,6 +1,4 @@
-CS 320, Spring 2020 – Monday, April 6th, 2020
-
-Mid-Term Exam Answer Sheet
+CS 320, Spring 2020, Mid-Term Exam Answer Sheet, Monday, April 6th, 2020
 
 To be submitted to Marmoset (along with your UML diagram from Question 3) by 8:00 am Tuesday, April 7th, 2020.
 
@@ -86,7 +84,7 @@ Answer 10. [5 points] Answer for Liskov Substitution Principle (LSP) question:
 Answer 11. [5 points] Answer for Open / Closed Principle (OCP) question:
 
 
-Answer 12. [10 points] Answer for SW Testing question (you might not need to use all 4 lines, but a full-credit answer will be close to that:
+Answer 12. [10 points] Answer for SW Testing question (you might not need to use all 4 lines, but a full-credit answer will be close to that):
 
    1)
    
