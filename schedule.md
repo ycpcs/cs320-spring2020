@@ -42,23 +42,23 @@ Mar 25 | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/le
 Mar 27 | SQL / JDBC / ORM Labs Review
 Mar 30 | Library Project Example Analysis and Review
 Apr 1  | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 3  | Mid-Term Exam Review <br> Library Project Example Review 
+Apr 6  | Mid-Term Exam Review <br> Library Project Example Review 
 Apr 4  | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 Apr 6  | **MID-TERM EXAM** (in class)
 Apr 8  | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 10 | **Spring Break (no class)**
 Apr 11 | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Apr 13 | **Spring Break (no class)**
-Apr 15 | TBD or Team Project Session (in class, hopefully  :-)
-Apr 17 | TBD or Team Project Session (in class, hopefully  :-)
-Apr 20 | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 22 | TBD or Team Project Session (in class, hopefully  :-)
-Apr 24 | TBD or Team Project Session (in class, hopefully  :-)
-Apr 27 | TBD or Team Project Session (in class, hopefully  :-)
-Apr 29 | TBD or Team Project Session (in class, hopefully  :-)
-May 1  | TBD or Team Project Session (in class, hopefully  :-)
-May 4  | TBD or Team Project Session (in class, hopefully  :-)
-May 6  | TBD or Team Project Session (in class, hopefully  :-)
+Apr 15 | Team Project Work Session
+Apr 17 | Team Project Work Session
+Apr 20 | Team Project Work Session
+Apr 22 | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Apr 24 | Team Project Work Session
+Apr 27 | Team Project Work Session
+Apr 29 | Team Project Work Session
+May 1  | Team Project Work Session
+May 4  | Team Project Work Session
+May 6  | Team Project Work Session (last class session of semester)
 May 9  | Team Project Report Due | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 May 10 | Team Project Reflection Due<br>Team Project Final Self / Peer Evaluations Due | [Assignment 10: Team Project Reflection](assign/assign10.html)<br> [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 May 11 | **TEAM PROJECT FINAL PRESENTATIONS (Section 103)**<br>Final Exam Period (3:00 to 5:00) | [Assignment 8: Team Project Deliverables](assign/assign08.html)

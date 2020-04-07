@@ -11,7 +11,7 @@ This document describes the expectations for each milestone.
 > ---- | ---------
 > Monday, 3-16-20    | Milestone 1: Minimal Working System
 > Wednesday, 4-1-20  | Milestone 2: Progress on Features
-> Monday, 4-20-20    | Milestone 3: "75%" Working System (persistence using SQL database)
+> Wednesday, 4-22-20 | Milestone 3: "75%" Working System (operational persistent SQL database)
 > Saturday, 5-9-20   | Final Technical Report: due by 7:00am (Marmoset)
 > Monday, 5-11-20    | Final Presentation & Demo (section 103), during final exam period
 > Wednesday, 5-13-20 | FInal Presenation & Demo (sections 101 & 102), during final exam period
