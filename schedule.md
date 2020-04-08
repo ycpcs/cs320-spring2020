@@ -47,7 +47,7 @@ Apr 4  | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11:
 Apr 6  | **MID-TERM EXAM** (in class)
 Apr 8  | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 10 | **Spring Break (no class)**
-Apr 11 | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
+Apr 11 | Individual Project Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Apr 13 | **Spring Break (no class)**
 Apr 15 | Team Project Work Session
 Apr 17 | Team Project Work Session
