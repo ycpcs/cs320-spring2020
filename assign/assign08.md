@@ -58,18 +58,18 @@ Here is a suggested structure for your presentation, with approximate times to s
 >
 > This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation.
 >
-> **3.** Implementation: (3-4 minutes) What were the most interesting things you learned when you implemented the system? If you used any interesting programming techniques, this is a good opportunity to discuss them.
+> **3.** Database Schema: (2-3) minutes Present the Schema for your SQL database.  The DB Schema should include all tables with their attribute names (columns) and their respective data types, as well as how the tables are connected.
 >
-> **4.** Demonstration: (5-7 minutes) Show your system working. Demonstrate the most important/interesting features.
+> **4.** Implementation: (3-4 minutes) What were the most interesting things you learned when you implemented the system? If you used any interesting programming techniques, this is a good opportunity to discuss them.
 >
-> **5.** Conclusions: (2-3 minutes) Sum up what you learned. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
+> **5.** Demonstration: (5 minutes) Show your system working. Demonstrate the most important/interesting features, and run your JUnit test cases.
+>
+> **6.** Conclusions: (2-3 minutes) Sum up what you learned. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
 
-Your presentation should include no more than 6 slides.
+Your presentation should include between 5-8 slides.
 
 Please rehearse your presentation! **Do a dry run of the demonstration before the presentation.**  Make absolutely sure everything is working and ready to go before you present.  
 
 This is a formal presentation, including appropriate dress.  All of the members of your team *must* participate in the presentation.
-
-Plan on giving the presentation and demonstration using your own laptop, as the instructor PC has been quite unreliable this semester.
 
 Make sure that your presentation is ready to go immediately when it is your group's turn.
