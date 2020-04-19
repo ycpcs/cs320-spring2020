@@ -58,7 +58,7 @@ Here is a suggested structure for your presentation, with approximate times to s
 >
 > This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation.
 >
-> **3.** Database Schema: (2-3) minutes Present the Schema for your SQL database.  The DB Schema should include all tables with their attribute names (columns) and their respective data types, as well as how the tables are connected.
+> **3.** Database Schema: (2-3 minutes) Present the Schema for your SQL database.  The DB Schema should include all tables with their attribute names (columns) and their respective data types, as well as how the tables are related to each other.
 >
 > **4.** Implementation: (3-4 minutes) What were the most interesting things you learned when you implemented the system? If you used any interesting programming techniques, this is a good opportunity to discuss them.
 >
