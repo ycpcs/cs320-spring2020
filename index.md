@@ -26,18 +26,16 @@ All information about the course will be posted here.
 ## News
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
+-->
 
-* **May 4** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 15-20 minute formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines:
+* **Apr 20** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 15-20 minute formal presentations on-line (Zoom).  See [Assignment 8](assign/assign08.html) for the details and guidelines.
 	- **9:00 section (101) - 8:00 to 10:00 on Wednesday, 5-13-20**
 	- **11:00 section (102) - 10:15 to 12:15 on Wednesday, 5-13-20**
 	- **2:00 section (103) - 3:00 to 5:00 on Monday, 5-11-20**.
 
-* **May 1** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both **due by 7:00am, Sunday, 5-10-20**.
+* **Apr 20** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both INDIVIDUAL assignments and are are both **due by 7:00am, Sunday, 5-10-20 in PDF form in Marmoset**.
 
-* **May 1** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.
-
-
--->
+* **Apr 20** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.
 
 * **Apr 7** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Wednesday, 4-22-20**.  This will be a FORMAL 8-10 minute (max) on-line (Zoom) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
 
