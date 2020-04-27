@@ -28,7 +28,7 @@ All information about the course will be posted here.
 <!-- Commenting out News until it's needed - and the dates will change, anyway
 -->
 
-* **Apr 20** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 15-20 minute formal presentations on-line (Zoom).  See [Assignment 8](assign/assign08.html) for the details and guidelines.
+* **Apr 20** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 20-25 minute formal presentations on-line (Zoom).  See [Assignment 8](assign/assign08.html) for the details and guidelines.
 	- **9:00 section (101) - 8:00 to 10:00 on Wednesday, 5-13-20**
 	- **11:00 section (102) - 10:15 to 12:15 on Wednesday, 5-13-20**
 	- **2:00 section (103) - 3:00 to 5:00 on Monday, 5-11-20**.

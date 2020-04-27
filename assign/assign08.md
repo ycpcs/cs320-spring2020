@@ -37,7 +37,7 @@ Submit a 3-5 page report describing:
 -   What development practices your team used, how well they worked, and what you might do differently for future projects
 -   How you might continue to develop and enhance the system in the future
 
-Also, don't forget to include the "main" repository URL as mentioned above.
+Feel free to ere on the side of more content, rather than less.  Also, don't forget to include the "main" repository URL as mentioned above.
 
 Submit the report to Marmoset as **assign08report**.  Use *only* PDF: do *not* upload a Microsoft Word or rich text document.
 
@@ -48,7 +48,7 @@ Your report <em>must</em> be submitted in PDF format.  Submissions in any other 
 The Presentation
 ----------------
 
-At the conclusion of your team project, your group will give a 15-20 minute presentation.
+At the conclusion of your team project, your group will give a 20-25 minute presentation.
 
 Here is a suggested structure for your presentation, with approximate times to spend on each part:
 
@@ -60,16 +60,16 @@ Here is a suggested structure for your presentation, with approximate times to s
 >
 > **3.** Database Schema: (2-3 minutes) Present the Schema for your SQL database.  The DB Schema should include all tables with their attribute names (columns) and their respective data types, as well as how the tables are related to each other.
 >
-> **4.** Implementation: (3-4 minutes) What were the most interesting things you learned when you implemented the system? If you used any interesting programming techniques, this is a good opportunity to discuss them.
+> **4.** Implementation: (4-5 minutes) What were the most interesting things you learned when you implemented the system? If you used any interesting programming techniques, this is a good opportunity to discuss them.
 >
-> **5.** Demonstration: (5 minutes) Show your system working. Demonstrate the most important/interesting features, and run your JUnit test cases.
+> **5.** Demonstration: (6-8 minutes) Show your system working. Demonstrate the most important/interesting features, and run your JUnit test cases.
 >
-> **6.** Conclusions: (2-3 minutes) Sum up what you learned. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
+> **6.** Conclusions: (3 minutes) Sum up what you learned. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
 
-Your presentation should include between 5-8 slides.
+Your presentation should include between 7-10 slides.
 
 Please rehearse your presentation! **Do a dry run of the demonstration before the presentation.**  Make absolutely sure everything is working and ready to go before you present.  
 
 This is a formal presentation, including appropriate dress.  All of the members of your team *must* participate in the presentation.
 
-Make sure that your presentation is ready to go immediately when it is your group's turn.
+Please make sure that your presentation is ready to go immediately when it is your group's turn, including have your demo ready to run.
