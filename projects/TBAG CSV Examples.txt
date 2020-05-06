@@ -23,3 +23,11 @@ Player: south (s)
 Game: North end of small cave (2)
 Player: east (e)
 Game: There is no where to go in that direction (2)
+
+
+
+Dialog question choices
+1 | Question1  | 2 | Choice1 ID | choice2 ID
+2 | Question2  | 2 | Choice3 ID | choice4 ID
+3 | Terminal 3
+4 | Terminal 4
